@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EnderWiebe07
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning More About Linux
